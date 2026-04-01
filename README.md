@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there!
+
+## 👨‍🎓 About Me
+
+I'm a **Multimedia Systems Engineering** student at **Lucian Blaga University of Sibiu**.
+
+## 🌱 Currently Learning
+
+* Web development
+* Java programming  
+* 3D modeling (Blender)
+* AI prompting
+
+---
+
+⭐ Thanks for visiting my profile!
+
