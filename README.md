@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there!
-
 ## 👨‍🎓 About Me
 
 I'm a **Multimedia Systems Engineering** student at **Lucian Blaga University of Sibiu**.
